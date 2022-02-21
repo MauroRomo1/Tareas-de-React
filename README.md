@@ -1,3 +1,11 @@
+# Ejercicios React 
+
+### Prácticas con componentes, ciclo de vida del componente, eventos etc.
+
+* [Link de las tareas](https://docs.google.com/document/d/1yFK09NIwbUug5p0M_q1ESPXH4xaCS9sNqzYEOehxoJc/edit#).
+
+____________________________________________________________________________________________________________________________________________________________________________
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
